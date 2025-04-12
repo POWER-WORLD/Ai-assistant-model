@@ -1,0 +1,17 @@
+
+# Required Python Libraries for AI Assistant Model
+
+SpeechRecognition
+pywhatkit
+pyautogui
+pyttsx3
+
+# Built-in libraries (no installation needed)
+# os
+# webbrowser
+# time
+# datetime
+
+# Installation Command:
+# Run the following command in your terminal to install the required libraries:
+# pip install -r requirements.txt
